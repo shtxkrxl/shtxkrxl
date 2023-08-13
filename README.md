@@ -17,4 +17,4 @@ I'm Alexandr, Front-end developer 👻
 Feel free to contact me 📫
 <br><br>
 <a href="https://t.me/shtxkrxl" target="_blank">![Telegram](https://img.shields.io/badge/shtxkrxl-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="mailto:shtxkrxl@ya.ru" target="_blank">![ya.ru](https://img.shields.io/badge/shtxkrxl%40ya.ru-ffcc00?style=for-the-badge&logo=maildotru&logoColor=black)</a>
+<a href="mailto:shtxkrxl@yandex.ru" target="_blank">![ya.ru](https://img.shields.io/badge/shtxkrxl%40yandex.ru-ffcc00?style=for-the-badge&logo=maildotru&logoColor=black)</a>
